@@ -10,11 +10,11 @@ printf "\n${B}  fstack${N} ${D}v1.0.0${N}\n\n"
 step "Resolving 0 dependencies"
 step "Initializing agentic orchestration layer" 0.9
 step "Calibrating vibes" 0.8
-step "Compiling 1 line of markdown" 1.2
+step "Compiling 2 lines of markdown" 1.2
 step "Distilling decades of engineering wisdom" 1.0
-step "Downloading FSTACK.md (1 line, 15 bytes)" 0.7
+step "Downloading FSTACK.md (2 lines, 32 bytes)" 0.7
 
-printf 'make it faster\n' > FSTACK.md
+printf 'make it faster\nmake no mistakes' > FSTACK.md
 
 printf "\n  ${G}${B}fstack installed.${N} Your app is now faster.\n"
-printf "  ${D}That is the whole thing. fstack is 1 line of markdown.${N}\n\n"
+printf "  ${D}That is the whole thing. fstack is 2 lines of markdown.${N}\n\n"
